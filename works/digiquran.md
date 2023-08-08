@@ -3,9 +3,9 @@ title: Digiquran
 thumbnail: "https://github.com/nerufuyo/digiquran/raw/main/screenshot/banner.jpg"
 thumbnail_x: 0.5
 thumbnail_y: 0.392
-tags: flutter, islamic
+tags: flutter, islamic, quran
 createdAt: 2023-08-08T19:30:52+07:00
-updatedAt: 2023-08-08T19:32:42+07:00
+updatedAt: 2023-08-09T06:04:30+07:00
 demoUrl: https://github.com/nerufuyo/digiquran
 repositoryUrl: https://github.com/nerufuyo/digiquran
 ---
