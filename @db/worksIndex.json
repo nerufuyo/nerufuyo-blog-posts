@@ -1,26 +1,13 @@
 [
   {
-    "title": "Lorem ipsum",
-    "summary": "testasdasdsa",
-    "createdAt": "2023-08-08T11:54:32.000Z",
-    "updatedAt": "2023-08-08T11:54:32.000Z",
-    "thumbnail": "@local/img/banner.webp",
-    "thumbnail_y": 0.5,
+    "title": "Test Post",
+    "summary": "HAHAHAHAAHAHAHAHAHAHA",
+    "createdAt": "2023-08-08T12:03:48.000Z",
+    "updatedAt": "2023-08-08T12:03:48.000Z",
+    "thumbnail": "@attachments/banner/dfuj8iko9ru902345.png",
+    "thumbnail_y": 0.344,
     "thumbnail_x": 0.5,
     "tags": [],
-    "path": "/works/lorem-ipsum"
-  },
-  {
-    "title": "next-gdrive-index",
-    "summary": "![next-gdrive-index](./public/og.png)  Status",
-    "createdAt": "2023-07-09T16:05:45.000Z",
-    "updatedAt": "2023-08-08T09:11:42.000Z",
-    "thumbnail": "@local/img/banner.webp",
-    "thumbnail_y": 0.5,
-    "thumbnail_x": 0.5,
-    "tags": [],
-    "path": "/works/next-gdrive-index",
-    "repositoryUrl": "https://github.com/mbaharip/next-gdrive-index",
-    "demoUrl": "https://drive.mbaharip.com"
+    "path": "/works/test-post"
   }
 ]
