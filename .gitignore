@@ -1,0 +1,8 @@
+.obsidian
+.trash
+@templates
+
+piecesdb.json
+./piecesdb.json
+
+.env
