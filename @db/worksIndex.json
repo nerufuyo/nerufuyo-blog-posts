@@ -1,13 +1,54 @@
 [
   {
-    "title": "Test Post",
-    "summary": "HAHAHAHAAHAHAHAHAHAHA",
-    "createdAt": "2023-08-08T12:03:48.000Z",
-    "updatedAt": "2023-08-08T12:06:02.000Z",
-    "thumbnail": "@attachments/banner/dfuj8iko9ru902345.png",
-    "thumbnail_y": 0.344,
+    "title": "Indoscape",
+    "summary": "Indoscape  Indoscape is an innovative mobile application that serves as a virtual gateway to explore and discover the diverse culture, geography, and offerings of Indonesia, catering to both locals and international travelers seeking a convenient and engaging way to learn about the country's unique characteristics and stay updated with the latest information.",
+    "createdAt": "2023-08-08T12:33:12.000Z",
+    "updatedAt": "2023-08-08T12:34:16.000Z",
+    "thumbnail": "@url/github.com/nerufuyo/indoscape/raw/main/screenshot/screenshot2.jpg",
+    "thumbnail_y": 0.5,
     "thumbnail_x": 0.5,
     "tags": [],
-    "path": "/works/test-post"
+    "path": "/works/indoscape",
+    "repositoryUrl": "https://github.com/nerufuyo/indoscape",
+    "demoUrl": "https://github.com/nerufuyo/indoscape"
+  },
+  {
+    "title": "Digiquran",
+    "summary": "DigiQuran DigiQuran is a user-friendly Islamic app that offers a range of features to enhance your spiritual journey. Read Quran allows easy navigation and recitation options, while Shalah Time provides accurate prayer times. Daily Quotes offer insightful teachings, Qiblah Direction points to the Kaaba, and Daily Dua provides blessings and guidance. The app also includes an Islamic Video Player for educational and motivational videos. Experience spirituality and technology in perfect harmony with DigiQuran, your ultimate companion on the path to enlightenment.",
+    "createdAt": "2023-08-08T12:30:52.000Z",
+    "updatedAt": "2023-08-08T12:32:42.000Z",
+    "thumbnail": "@url/github.com/nerufuyo/digiquran/raw/main/screenshot/banner.jpg",
+    "thumbnail_y": 0.392,
+    "thumbnail_x": 0.5,
+    "tags": [],
+    "path": "/works/digiquran",
+    "repositoryUrl": "https://github.com/nerufuyo/digiquran",
+    "demoUrl": "https://github.com/nerufuyo/digiquran"
+  },
+  {
+    "title": "Kantongku",
+    "summary": "KANTONGKU Kantongku is an application that is used to record daily financial expenses and income. This application is a personal project of nerufuyo a.k.a Listyo Adi. Screenshot",
+    "createdAt": "2023-08-08T12:27:13.000Z",
+    "updatedAt": "2023-08-08T12:28:57.000Z",
+    "thumbnail": "@attachments/banner/img-kantongku 1.png",
+    "thumbnail_y": 0.5,
+    "thumbnail_x": 0.5,
+    "tags": [],
+    "path": "/works/kantongku",
+    "repositoryUrl": "https://github.com/nerufuyo/kantongku",
+    "demoUrl": "https://github.com/nerufuyo/kantongku"
+  },
+  {
+    "title": "Footesh Store",
+    "summary": "FOOTESH STORE  A simple desain for shoes store. I want implement some feature like this:",
+    "createdAt": "2023-08-08T12:21:29.000Z",
+    "updatedAt": "2023-08-08T12:30:00.000Z",
+    "thumbnail": "@attachments/banner/img-footesh-store-3 1.png",
+    "thumbnail_y": 0.228,
+    "thumbnail_x": 0.5,
+    "tags": [],
+    "path": "/works/footesh-store",
+    "repositoryUrl": "https://github.com/nerufuyo/footesh_store",
+    "demoUrl": "https://github.com/nerufuyo/footesh_store"
   }
 ]
