@@ -3,8 +3,6 @@ const path = require("path");
 const matter = require("gray-matter");
 const moment = require("moment");
 
-const VERSION = "1.1.0"
-
 async function runFs() {
   const timestampStart = Date.now();
 
@@ -56,13 +54,9 @@ function process(data, category) {
 
       // markdown.data.tags if null return either null / [null]
       // make it empty array if null
-      let tempTags = markdownData.data.tags;
-      if(typeof tempTags === 'string') {
-        tempTags = markdownData.data.tags.split(',').map(tag => tag.trim());
-      }
       let tags = [];
-      if (Array.isArray(tempTags) && tempTags.length > 0) {
-        tags = tempTags;
+      if (Array.isArray(markdownData.data.tags) && markdownData.data.tags[0]) {
+        tags = markdownData.data.tags;
       }
 
       // Create summary from markdown content
@@ -71,10 +65,9 @@ function process(data, category) {
         .replace(/<[^>]*>?/gm, "")
         .replace(/#+\s/g, "")
         .split("\n")
-        .slice(0, 5) // Take 2 first lines, it use 3 because frontmatter content start with \n
+        .slice(0, 3) // Take 2 first lines, it use 3 because frontmatter content start with \n
         .join(" ")
-        .trim()
-        .replaceAll(/\s+/g, " "); // Remove extra spaces
+        .trim();
 
       let thumbnail = markdownData.data.thumbnail || "/img/banner.webp";
       // Check if thumbnail is a wikilink image, if yes, get the image name
