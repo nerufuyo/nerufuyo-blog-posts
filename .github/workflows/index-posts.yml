@@ -23,8 +23,8 @@ jobs:
           ref: ${{ github.ref }}
           token: ${{ secrets.PAT }}
 
-      - name: Install Dependencies
-        run: npm install
+      # - name: Install Dependencies
+        # run: npm install
 
       - name: Index Posts
         run: node index-posts-data.js
