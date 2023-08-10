@@ -19,13 +19,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        repository: nerufuyo/nerufuyo-blog-posts
         with:
           ref: ${{ github.ref }}
           token: ${{ secrets.PAT }}
-          repository: nerufuyo/nerufuyo-blog-posts
 
       # - name: Install Dependencies
-        # run: npm install
+      # run: npm install
 
       - name: Index Posts
         run: node index-posts-data.js
