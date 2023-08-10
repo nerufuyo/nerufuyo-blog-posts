@@ -5,7 +5,7 @@ thumbnail_x: 0.5
 thumbnail_y: 0.5
 tags: flutter, indonesia, travel, culture
 createdAt: 2023-08-08T19:33:12+07:00
-updatedAt: 2023-08-08T19:34:16+07:00
+updatedAt: 2023-08-10T17:15:33+07:00
 demoUrl: https://github.com/nerufuyo/indoscape
 repositoryUrl: https://github.com/nerufuyo/indoscape
 ---
@@ -26,4 +26,4 @@ Indoscape is an innovative mobile application that serves as a virtual gateway t
 ## Screenshots
 
 ![[img-indoscape.png]]  
-![[img-indoscape-1.png]]
+![[img-indoscape-2.png]]

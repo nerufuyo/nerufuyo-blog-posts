@@ -5,7 +5,7 @@ thumbnail_x: 0.5
 thumbnail_y: 0.228
 tags: flutter, design, store
 createdAt: 2023-08-08T19:21:29+07:00
-updatedAt: 2023-08-08T19:30:00+07:00
+updatedAt: 2023-08-10T17:14:54+07:00
 demoUrl: https://github.com/nerufuyo/footesh_store
 repositoryUrl: https://github.com/nerufuyo/footesh_store
 ---
