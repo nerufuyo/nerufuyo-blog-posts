@@ -5,15 +5,15 @@ thumbnail_x: 0.5
 thumbnail_y: 0.5
 tags: flutter, indonesia, travel, culture
 createdAt: 2023-08-08T19:33:12+07:00
-updatedAt: 2023-08-10T17:15:33+07:00
+updatedAt: 2023-08-10T17:33:17+07:00
 demoUrl: https://github.com/nerufuyo/indoscape
 repositoryUrl: https://github.com/nerufuyo/indoscape
 ---
-# Indoscape
+## Indoscape
 
 Indoscape is an innovative mobile application that serves as a virtual gateway to explore and discover the diverse culture, geography, and offerings of Indonesia, catering to both locals and international travelers seeking a convenient and engaging way to learn about the country's unique characteristics and stay updated with the latest information.
 
-## Features
+### Features
 
 - Explore Indonesia's 34 provinces and 514 cities and regencies
 - Discover the country's diverse culture, geography, and offerings
@@ -23,7 +23,7 @@ Indoscape is an innovative mobile application that serves as a virtual gateway t
 - News feed
 - Travel guide
 
-## Screenshots
+### Screenshots
 
 ![[img-indoscape.png]]  
 ![[img-indoscape-2.png]]
