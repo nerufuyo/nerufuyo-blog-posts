@@ -1,16 +1,5 @@
 [
   {
-    "title": "TESTTTTT",
-    "summary": "",
-    "createdAt": "2023-08-10T07:00:22.000Z",
-    "updatedAt": "2023-08-10T07:00:23.000Z",
-    "thumbnail": "@local/img/banner.webp",
-    "thumbnail_y": 0.5,
-    "thumbnail_x": 0.5,
-    "tags": [],
-    "path": "/works/testtttt"
-  },
-  {
     "title": "Indoscape",
     "summary": "Indoscape Indoscape is an innovative mobile application that serves as a virtual gateway to explore and discover the diverse culture, geography, and offerings of Indonesia, catering to both locals and international travelers seeking a convenient and engaging way to learn about the country's unique characteristics and stay updated with the latest information. Features",
     "createdAt": "2023-08-08T12:33:12.000Z",
